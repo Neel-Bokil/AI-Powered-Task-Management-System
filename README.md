@@ -31,6 +31,7 @@ It predicts the **Issue/Task Type** and **Priority** of a given task description
 
 ## 📂 Project Structure
 
+```bash
 AI Powered Task Management System/
 │── app.py
 │── jira_users_with_workload.csv
@@ -42,7 +43,7 @@ AI Powered Task Management System/
 │── notebooks/
 │ ├── Task_management_with_BERT.ipynb
 │ ├── Priority_Model_XGBoost_TFIDF.ipynb
-
+```
 
 ---
 
@@ -72,8 +73,8 @@ AI Powered Task Management System/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Neel-Bokil/AI-Powered-Task-Management-System.git
+cd AI-Powered-Task-Management-System
 ```
 ### Step 2: Install Requirements
 ```bash
