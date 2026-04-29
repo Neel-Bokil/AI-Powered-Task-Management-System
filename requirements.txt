@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+torch
+transformers
+huggingface_hub
+tokenizers
+sentencepiece
+protobuf
+tqdm
